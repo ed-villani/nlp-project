@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# User Defined
+wine2vec_pretrained/
+.DS_Store
+.idea/
+ml_models/
+model_lstm_test_*/
+wine_classifider_*/
